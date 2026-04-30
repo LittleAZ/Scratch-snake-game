@@ -2,9 +2,6 @@
 My first Scratch game (CS50 Week 0)
 This is my first programming project, built with Scratch.
 
-# Scratch Snake Game
-This is my first programming project, built with Scratch.
-
 # How to Play
 Download the `.sb3` file and open it in Scratch.
 Press any arrow key to start the game.
