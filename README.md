@@ -48,8 +48,8 @@ Body segments only appear after:
 * Head has moved enough steps (list length ≥ 20)
 If the head touches the body → game over
 
-## ⏱️ Development Time
+## Development Time
 About 10 hours
 
-## 🧠 Notes
+## Notes
 This is my first project, and many parts required debugging and experimentation, especially synchronization and collision handling.
